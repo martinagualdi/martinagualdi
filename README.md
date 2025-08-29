@@ -1,3 +1,4 @@
+![Encabezado](https://github.com/martinagualdi/martinagualdi/blob/main/banner.png)
 # Hola! 👋 Soy Martina
 
 Estudiante de Lic. en Análisis de Sistemas (UBA).  
