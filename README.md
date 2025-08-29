@@ -1,7 +1,7 @@
 ![Encabezado](https://github.com/martinagualdi/martinagualdi/blob/main/banner.png)
 # Hola! 👋 Soy Martina
 
-Estudiante de Lic. en Análisis de Sistemas (UBA).  
+Estudiante de Lic. en Análisis de Sistemas (UBA) y ayudante de catedra en Algoritmos y Programación I/Fundamentos de programación.  
 Apasionada por la tecnología, los desafíos y el trabajo en equipo.  
 
 
