@@ -5,7 +5,7 @@ Estudiante de Lic. en Análisis de Sistemas (UBA) y ayudante de catedra en Algor
 Apasionada por la tecnología, los desafíos y el trabajo en equipo.  
 
 
-En este perfil encontrarán material realizado por mi (o en quipo) para diversos trabajos y materias de la facultad. 
+En este perfil encontrarán material realizado por mi (o en equipo) para diversos trabajos y materias de la facultad. 
 
 ## 🛠 Herramientas y tecnologías
 🖥️ Lenguajes: C, C++, Java, Python, SQL
